@@ -38,7 +38,7 @@ The program stores information in two files:
 destinos.txt: stores destination data
 viajes.txt: stores flight records
 
-In the auxiliares directory these files already exist with few entries to make quicker the trial of the script.
+In the auxiliares directory these files already exist with few entries to make a trial quicker.
 
 ## How to Compile and Run
 
